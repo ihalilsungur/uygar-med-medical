@@ -1,0 +1,15 @@
+/*About Us ---> Hakkımızda*/
+#ourHistory {
+    background-color: #f9f9f9;
+    margin-top: 100px;
+
+}
+
+#ourHistory .container {
+    background-color: #ffff;
+}
+
+/*About-us.html (Hakkımızda Sayfasımız)*/
+.about-us-pages{
+    margin-top: 385px;
+}

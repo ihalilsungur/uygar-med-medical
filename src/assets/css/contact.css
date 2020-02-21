@@ -1,0 +1,99 @@
+
+.map{
+    margin-bottom: 50px;
+}
+.map-container{
+    overflow:hidden;
+    padding-bottom:40%; /*56.25%*/
+    position:relative;
+    height:0;
+}
+.map-container iframe{
+    left:0;
+    top:0;
+    height:500px;
+    min-height:500px;
+    max-height:500px;
+    width:100%;
+    min-width: 100%;
+    max-width: 100%;
+    position:absolute;
+}
+
+/*Contact Area -> İletişim Alanı*/
+
+#contact {
+
+    margin-top: 100px;
+    padding: 0;
+}
+
+#contact .container {
+    background-color: #fff;
+}
+
+#contact .address-text {
+    font-size: 18px;
+    color: #646464;
+    padding-left: 10px;
+}
+
+#contact .envelope-text {
+    font-size: 18px;
+    color: #646464;
+    padding-left: 15px;
+}
+
+#contact .phone-text {
+    font-size: 18px;
+    color: #646464;
+    padding-left: 15px;
+}
+
+#contact .user-text {
+    font-size: 18px;
+    color: #646464;
+    padding-left: 15px;
+}
+
+#fa-home {
+    font-size: 40px;
+    color: #1886c7;
+}
+
+#fa-envelope {
+    margin-left: 7px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    color: #1886c7;
+}
+
+#contact #fa-phone {
+    margin-left: 7px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    color: #1886c7;
+}
+
+#contact #fa-user {
+    margin-left: 7px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 35px;
+    color: #1886c7;
+}
+
+.fa-user {
+    color: #1886c7;
+}
+.fa-envelope {
+    color: #1886c7;
+}
+
+.fa-pencil {
+    color: #1886c7;
+}
+
+.input-group-text {
+    width: 40px;
+}
